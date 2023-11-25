@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TvDemo" parent="@style/Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">#ffffff</item>
+    </style>
+</resources>
