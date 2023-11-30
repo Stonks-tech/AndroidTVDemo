@@ -5,6 +5,8 @@ Welcome to our Android TV App Development Demo! This project serves as a practic
 
 While this is a compact demo, it effectively showcases the essentials of Android TV app development with Jetpack Compose and provides a proof of concept for video playback functionality. Please note, as this is a streamlined project, it may not encompass all best practices such as clean architecture or multi-module setup. However, it stands as a robust example for those looking to understand the basics of Android TV applications.
 
+[Read full article on our blog](https://www.stonks.tech/en/articles/android-tv-streaming)
+
 ## Demo
 ![Demo Video](demo/demo-video.gif)
 
